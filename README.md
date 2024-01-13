@@ -1,0 +1,2 @@
+# BrainInspiredPINN
+Brain-Inspired PINN
